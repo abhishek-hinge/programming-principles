@@ -238,7 +238,7 @@ These principles are widely used in:
 ## 👨‍💻 Author
 
 * Abhishek Hinge
-* GitHub: https://github.com/abhishekhinge
+* GitHub: https://github.com/abhishek-hinge
 
 ---
 
